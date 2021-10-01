@@ -1,6 +1,6 @@
 # sjisreplace
 
-[![ci](https://github.com/johejo/sjisreplace/workflows/ci/badge.svg?branch=main)](https://github.com/johejo/sjisreplace/actions?query=workflow%3Aci)
+[![ci](https://github.com/johejo/sjisreplace/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/johejo/sjisreplace/actions/workflows/ci.yaml)
 [![Go Reference](https://pkg.go.dev/badge/github.com/johejo/sjisreplace.svg)](https://pkg.go.dev/github.com/johejo/sjisreplace)
 [![codecov](https://codecov.io/gh/johejo/sjisreplace/branch/main/graph/badge.svg)](https://codecov.io/gh/johejo/sjisreplace)
 [![Go Report Card](https://goreportcard.com/badge/github.com/johejo/sjisreplace)](https://goreportcard.com/report/github.com/johejo/sjisreplace)
